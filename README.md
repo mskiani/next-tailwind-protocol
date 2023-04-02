@@ -49,7 +49,7 @@ The technologies used on the project development are listed below.
 - [Typescript](https://www.typescriptlang.org/)
 - [ReactJS](https://pt-br.reactjs.org/)
 - [NextJs](https://nextjs.org/)
-- [tailwind](https://tailwindcss.com/)
+- [TailwindCSS](https://tailwindcss.com/)
 
 ## **Getting started**
 
